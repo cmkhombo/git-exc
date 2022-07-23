@@ -1,0 +1,500 @@
+  259  git branch
+  260  git checkout main
+  261  git pull
+  262  git checkout -b task/5
+  263  touch task1.5.js
+  264  code.
+  265  code .
+  266  ls
+  267  git status
+  268  git add .
+  269  git status
+  270  git commit -m "task1.5 initial commit"
+  271  git branch
+  272  git branch -r
+  273  git push
+  274  git push --set-upstream origin task/5
+  275  git branch -r
+  276  cd
+  277  cd desktop
+  278  cd git
+  279  ls
+  280  cd reviews
+  281  ls
+  282  mkdir review-moja1
+  283  cd review-moja1
+  284  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  285  git init
+  286  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  287  ls
+  288  code .
+  289  code .
+  290  cd
+  291  cd desktop
+  292  cd git
+  293  ls
+  294  cd reviews
+  295  cd moja2
+  296  init git
+  297  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  298  git init
+  299  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  300  code .
+  301  cd
+  302  cd desktop
+  303  cd git
+  304  l
+  305  ls
+  306  cd level-1-coding-challenges
+  307  ls
+  308  code .
+  309  git chekout task/4
+  310  git checkout task/4
+  311  ls
+  312  code .
+  313  git checkout task/3
+  314  ls
+  315  code .
+  316  git checkout task/2
+  317  ls
+  318  code .
+  319  git checkout main
+  320  git branch
+  321  git pull
+  322  git checkout -b task/6
+  323  git branch
+  324  touch task1.6
+  325  ls
+  326  rm task1.6
+  327  ls
+  328  touch task1.6.js
+  329  code .
+  330  ls
+  331  code .
+  332  ls
+  333  rm task1.3.js
+  334  ls
+  335  git status
+  336  git add .
+  337  git status
+  338  git commit -m "task1.6 initial commit"
+  339  git log
+  340  git push
+  341  git push --set-upstream origin task/6
+  342  git branch -r
+  343  ls
+  344  git status
+  345  git add .
+  346  git commit -m "task1.6 second commit"
+  347  ls
+  348  git push
+  349  git checkout main
+  350  git branch
+  351  git branch
+  352  git pull
+  353   git checkout -b task/7
+  354  touch task1.7.js
+  355  code .
+  356  ls
+  357  rm task1.7.js
+  358  ls
+  359  touch task1.7.js
+  360  code .
+  361  pwd
+  362  touch task8.js
+  363  cocd .
+  364  code .
+  365  pwd
+  366  cd
+  367  desktop
+  368  cd git
+  369  cd desktop
+  370  cd git
+  371  ls
+  372  cd level-0-coding-challennges
+  373  cd level-0-coding-challenges
+  374  ls
+  375  code.
+  376  code .
+  377  cd
+  378  cd desktop
+  379  cd git 
+  380  cd level-1-coding-challenges
+  381  code .
+  382  ls
+  383  rm task8.js
+  384  git status
+  385  git add .
+  386  git status
+  387  git commit -m "task1.7 initial commit"
+  388  git push
+  389  git push --set-upstream origin task/7
+  390  git branch
+  391  git branch -r
+  392  git checkout task/1
+  393  ls 
+  394  code .
+  395  git checkout task/2
+  396  ls
+  397  code .
+  398  git checkout task/3
+  399  code .
+  400  git checkout task/4
+  401  code .
+  402  git checkout task/5
+  403  code .
+  404  git checkout task/6
+  405  code .
+  406  git checkout task/7
+  407  code .
+  408  cd
+  409  cd desktop
+  410  cd git
+  411  cd reviews
+  412  ls
+  413  mkdir moja3
+  414  cd moja3
+  415  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  416  git init
+  417  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  418  ls
+  419  code .
+  420  cd
+  421  cd desktop
+  422  cd git
+  423  git reviews
+  424  ls
+  425  mkdir moja3
+  426  cd moja3
+  427  git init
+  428  git pull https://github.com/MojalefaMoja/LEVEL-0-CODING-CHALLENGES.git
+  429  ls
+  430  code .
+  431  cd
+  432  cd desktop/git
+  433  ls
+  434  cd project-repos
+  435  ls
+  436  code .
+  437  cd desktop
+  438  cd git
+  439  ls
+  440  cd level-1-coding-challenges
+  441  git pull
+  442  code .
+  443  git status
+  444  git add .
+  445  git status
+  446  git log
+  447  git commit -m "third commit"
+  448  git log
+  449  git push
+  450  git checkout task/5
+  451  git pull
+  452  code .
+  453  git status
+  454  git add .
+  455  git status
+  456  git log
+  457  git commit -m "fourth commit"
+  458  git status
+  459  git log
+  460  git push
+  461  git checkout task/2
+  462  code .
+  463  git status
+  464  git status
+  465  git add .
+  466  git log
+  467  git commit -m "firth commit"
+  468  git push
+  469  git checkout task/3
+  470  git pull
+  471  code .
+  472  git status
+  473  git add .
+  474  git status
+  475  git log
+  476  git commit -m "third commit"
+  477  git push
+  478  git pull
+  479  git push
+  480  git checkout task/2
+  481  git pull
+  482  git push
+  483  cd
+  484  cd desktop
+  485  cd git
+  486  ls
+  487  cd reviews
+  488  ls
+  489  cd
+  490  cd desktop
+  491  cd git
+  492  ls
+  493  mkdir reviews
+  494  cd reviews
+  495  mkdir review-nkaka
+  496  cd review-nkaka
+  497  git init
+  498  git pull https://github.com/nkakambula/level-zero-coding-challenges
+  499  ls
+  500  code .
+  501  git
+  502  clear
+  503  cd../
+  504   cd ../
+  505  cd ../
+  506  cd git-hub
+  507  git branch
+  508  git branch -r
+  509  git branch -a
+  510  git branch feature-a
+  511  git branch
+  512  fit checkout feature-a
+  513  git checkout feature-a
+  514  git branch
+  515  clear
+  516  vi utils.js
+  517  git status
+  518  git add .
+  519  git status
+  520  git commit -m "added utils.js"
+  521  git log
+  522  git checkout main
+  523  git log
+  524  clear
+  525  git log
+  526  git checkout feature-q
+  527  git checkout feature-a
+  528  clear
+  529  git log
+  530  git push
+  531  git push --set-upstream oriin feature-a
+  532  git push --set-upstream origin feature-a
+  533  clear
+  534  git checkput main
+  535  git checkout main
+  536  git checkout -b to-delete
+  537  git branch -a
+  538  git checkout main
+  539  git branch -d to-delete
+  540  git branch -a
+  541  clear
+  542  git log
+  543  git long --oneline
+  544  clear
+  545  git log --oneline
+  546  git pull
+  547  clear
+  548  git log --oneline
+  549  git branch -d feature-a
+  550  git brach -a
+  551  git branch -a
+  552  clear
+  553  git branch feature-xyz
+  554  git checkout feature-xyz
+  555  ls
+  556  cat index.css
+  557  vi index.css
+  558  git status
+  559  git add .
+  560  git status
+  561  git commit -m "added family names"
+  562  git log
+  563  q
+  564  git push
+  565  clear
+  566  git push --set-upstream origin feature-a
+  567  git push
+  568  git push --set-upstream origin feature-xyz
+  569  clear
+  570  ls
+  571  ls
+  572  vi index.css
+  573  cat index.css
+  574  clear
+  575  git status
+  576  git add .
+  577  git status
+  578  git commit -m "added my kokwani"
+  579  git log
+  580  git push
+  581  git pull
+  582  clear
+  583  vi index.css
+  584  cat index.css
+  585  git status
+  586  git add index.css 
+  587  git status
+  588  git commit -m "resolved conflict"
+  589  git push
+  590  clear
+  591  git checkout main
+  592  ls
+  593  git checkout feature-xyz
+  594  cat index.css
+  595  git pull
+  596  s
+  597  ls
+  598  git status
+  599  ls
+  600  rm q
+  601  ls
+  602  git status
+  603  git checkout main
+  604  ls
+  605  cat index.css
+  606  git checkout feature-xyz
+  607  git pull -r origin main
+  608  vi index.css
+  609  git status
+  610  git add .
+  611  git status
+  612  git commit -m "resolved conflict"
+  613  git rebase --continue
+  614  vi index.css
+  615  git status
+  616  git add .
+  617  git status
+  618  git commit -m "resolved second conflict"
+  619  git rebase --continue
+  620  vi index.css
+  621  git add .
+  622  git commit -m "resolved third conflict"
+  623  git log
+  624  git rebase --continue
+  625  vi index.css
+  626  git status
+  627  git add index.css
+  628  git status
+  629  git status
+  630  git commit -m "resoloved fourth conflict"
+  631  ls
+  632  vi index.css
+  633  git status
+  634  git add index.css
+  635  git status
+  636  git commit -m "resolved five conflicts"
+  637  git log
+  638  git rebase --continue
+  639  vi index.css
+  640  git add .
+  641  git commit -m "resolved six conflict"
+  642  git rebase --continue
+  643  git pusj
+  644  git push
+  645  git push -f
+  646  cd
+  647  cd desktop/git-work
+  648  ls
+  649  touch git-exc
+  650  ls
+  651  rm git-exc
+  652  ls
+  653  mkdir git-exc
+  654  ls
+  655  cd git-exc
+  656  git init
+  657  git a
+  658  ls -a
+  659  clear
+  660  git status
+  661  touch README.md
+  662  ls
+  663  git add .
+  664  git sstatus
+  665  git status
+  666  clear
+  667  git status
+  668  git log
+  669  git commit -m "initial commit"
+  670  git log
+  671  ls
+  672  vi readme.md
+  673  clear
+  674  git status
+  675  git add .
+  676  git status
+  677  git commit -m "second commit"
+  678  git log
+  679  clear
+  680  vi readme.md
+  681  cat readme.md
+  682  git status
+  683  git add .
+  684  git commit -m "third commit"
+  685  clear
+  686  git log
+  687  git checkout fb2dbc04315ebc75f347ea59e29343ab39591f5b
+  688  cclear
+  689  clrea
+  690  clear
+  691  git checkout fb2dbc04315ebc75f347ea59e29343ab39591f5b
+  692  cat readme.md
+  693  git checkpout master
+  694  git checkout master
+  695  ls
+  696  cat readme.md
+  697  cler
+  698  clear
+  699  git branch milkshake-flavours
+  700  git branch
+  701  git checkout milkshake-flavours
+  702  vi milkshakes.md
+  703  cat milkshakes
+  704  cat milkshakes.md
+  705  git status
+  706  clear
+  707  git add .
+  708  git status
+  709  git commit -m "added initial flavours"
+  710  git log
+  711  qqq
+  712  q
+  713  q!
+  714  q
+  715  clear
+  716  git branch
+  717  checkout master
+  718  git checkout master
+  719  ls
+  720  git branch
+  721  checkout milkshake-flavours
+  722  clear
+  723  checkout milkshake-flavours
+  724  git checkout milkshake-flavours
+  725  git branch
+  726  git checkout master
+  727  git checkout milkshake-flavours
+  728  ls
+  729  clear
+  730  git checkout master
+  731  ls
+  732  git branch history
+  733  git checkout history
+  734  git log
+  735  git checkout master
+  736  git log
+  737  git checkout milkshake-flavours
+  738  git log
+  739  git checkout main
+  740  git checkout main
+  741  git checkout master
+  742  git branch
+  743  clear
+  744  history > history.txt
+  745  git checkout history
+  746  history > history.txt
+  747  ls
+  748  git checkout maaster
+  749  git checkout master
+  750  ls
+  751  rm history.txt
+  752  ls
+  753  clear
+  754  git checkout history
+  755  ls
+  756  git status
+  757  ls
+  758  history > history.txt
